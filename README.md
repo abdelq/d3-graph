@@ -5,6 +5,8 @@ Simple graph drawing using [D3](//d3js.org).
 Note that the JavaScript file uses ES6 syntax, so would need to modify it
 manually or transpile it to target more browsers.
 
+This also could be done relatively easily without using D3.
+
 ## Example
 
 https://i.imgur.com/gc1RuZQ.mp4
